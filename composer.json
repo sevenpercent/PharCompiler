@@ -1,0 +1,10 @@
+{
+	"name": "sevenpercent/phar-compiler",
+	"description": "Compiles a PHP project into a self-executing Phar archive",
+	"license": "proprietary",
+	"autoload": {
+		"psr-4": {
+			"SevenPercent\\": "src/"
+		}
+	}
+}
